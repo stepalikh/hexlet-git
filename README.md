@@ -1,1 +1,1 @@
-'Hello, Stepan!' 
+No code No pain
