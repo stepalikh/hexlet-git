@@ -1,1 +1,1 @@
-Hello, Stepan! How are you?
+'Hello, Stepan!' 
